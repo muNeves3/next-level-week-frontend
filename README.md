@@ -1,4 +1,4 @@
 # next-level-week-frontend
 marketplace de coleta de residuos
 
-![https://imgur.com/O5iOQZ2](http://url/to/img.png)
+![Alt text](/next-level-week/nlw1.jpg?raw=true "Optional Title")
