@@ -1,7 +1,7 @@
 # next-level-week-frontend
 marketplace de coleta de residuos
 
-![Alt text](/relative/path/to/nlw1.jpg?raw=true "Home")
+![nlw1.jpg](/relative/path/to/nlw1.jpg?raw=true "Home")
 
 ![Alt text](/relative/path/to/nlw2.jpg?raw=true "Criação de um ponto")
 
